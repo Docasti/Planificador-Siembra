@@ -11,9 +11,12 @@ Caso de Uso
 El proyecto se centra en un pequeño productor de la zona rural de Santiago del Estero, Argentina. La herramienta lo asiste para planificar su siembra anual, tomando en cuenta la necesidad de autoconsumo para su familia y ganado, y la rentabilidad. Un caso de uso clave es la capacidad del modelo para priorizar cultivos más resistentes en escenarios de sequía, mitigando el riesgo de pérdida de cosecha.
 
 Características Clave
+
+Simulación de Datos (ETL): El app_gradio.ipynb contiene la simulación de datos. 
+
 Predicción de Rendimientos: Utiliza un modelo de Random Forest Regressor para pronosticar la producción de Maíz, Choclo y Zapallo.
 
-Optimización de Siembra: Un modelo de optimización lineal recomienda la distribución ideal de hectáreas para maximizar la ganancia total.
+Modelo de Optimización de Siembra: use de SciPy ( scipy.optimize.linprog para optimización lineal, recomienda la distribución ideal de hectáreas para maximizar la ganancia total.
 
 Calculadora de Autoconsumo: Calcula las hectáreas mínimas necesarias para asegurar las necesidades alimentarias de la familia y el ganado.
 
