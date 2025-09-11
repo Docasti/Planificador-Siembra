@@ -1,0 +1,17 @@
+-BEGIN HEADER-
+NASA/POWER Source Native Resolution Climatology in LST
+2-year Meteorological and Solar Monthly & Annual Climatologies (January 2023 - December 2024) 
+Location: Latitude  -27.9653   Longitude -65.1715 
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 458.58 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+Parameter(s): 
+PRECTOTCORR_SUM     MERRA-2 Precipitation Corrected Sum (mm/day) 
+RH2M                MERRA-2 Relative Humidity at 2 Meters (%) 
+T2M                 MERRA-2 Temperature at 2 Meters (C) 
+Message(s): 
+The requested parameters are computed for a custom climatological period (January 2023 - December 2024) 
+-END HEADER-
+PARAMETER,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+PRECTOTCORR_SUM,77.39,82.23,106.7,86.76,10.47,2.06,3.14,0.42,2.82,54.76,80.01,91.4,598.15
+RH2M,51.33,57.62,63.86,75.28,72.68,67.37,61.03,46.42,40.76,48.46,54.64,55.91,57.93
+T2M,28.59,27.41,27.37,20.5,15.08,15.53,13.14,16.39,21.46,24.08,25.83,27.07,21.85
