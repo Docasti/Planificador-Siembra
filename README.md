@@ -1,5 +1,6 @@
-🌾 Planificador de Siembra Inteligente
-¡Aplicación en vivo! Puedes acceder y probar la calculadora aquí: [PEGA AQUÍ TU ENLACE DE GRADIO]
+##🌾 Planificador de Siembra Inteligente
+
+¡Aplicación en vivo! Puedes acceder y probar la calculadora aquí: URL: https://d002f1ae85b6867ce6.gradio.live
 
 Descripción del Proyecto
 Este proyecto es una herramienta de ciencia de datos diseñada para ayudar a pequeños productores agropecuarios a tomar decisiones de siembra más informadas. El sistema utiliza modelos de Machine Learning para predecir rendimientos de cultivos y un modelo de optimización matemática para recomendar la asignación óptima de hectáreas.
