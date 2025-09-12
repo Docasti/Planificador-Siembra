@@ -1,4 +1,4 @@
-##🌾 Planificador de Siembra Inteligente
+#🌾 Planificador de Siembra Inteligente
 
 ¡Aplicación en vivo! Puedes acceder y probar mi MVP aquí: 
 URL pública de la app: https://huggingface.co/spaces/DoraCastillo/planificador-siembra
@@ -44,7 +44,7 @@ Despliegue de la Aplicación: Hugging Face Spaces.entorno de alojamiento donde s
 Próximos Pasos (Visión a Futuro)
 El siguiente paso para el proyecto sería integrar la entrada de datos automática a través de APIs. Esto permitiría a la aplicación consultar directamente servicios como la NASA o el Servicio Meteorológico Nacional para obtener datos climáticos en tiempo real, eliminando la necesidad de que el usuario los ingrese manualmente y transformando el MVP en una herramienta completamente automatizada.
 
-# Fuentes de lecturase investigacion, base para creacion de los datos sinteticos
+##Fuentes de lecturase investigacion, base para creacion de los datos sinteticos
 -Estimaciones Agropecuarias — Ministerio / series por provincia y cultivo. 
 datosestimaciones.magyp.gob.ar
 
