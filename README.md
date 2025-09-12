@@ -1,4 +1,8 @@
-#🌾 Planificador de Siembra Inteligente
+# 🌾 Planificador de Siembra Inteligente
+
+Proyecto de Ciencia de Datos
+
+**Desarrollado por:** Dora Cristina Castillo. Data Scientist.
 
 ¡Aplicación en vivo! Puedes acceder y probar mi MVP aquí: 
 URL pública de la app: https://huggingface.co/spaces/DoraCastillo/planificador-siembra
