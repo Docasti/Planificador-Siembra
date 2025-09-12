@@ -39,18 +39,24 @@ Plataforma: Google Colab
 
 Interfaz de Usuario: Gradio
 
+Despliegue de la Aplicación: Hugging Face Spaces.entorno de alojamiento donde se ejecuta el código ,la librería Gradio se encarga de la interfaz de usuario, convirtiendo las funciones de Python en una aplicación web que los usuarios pueden usar fácilmente.
+
 Próximos Pasos (Visión a Futuro)
 El siguiente paso para el proyecto sería integrar la entrada de datos automática a través de APIs. Esto permitiría a la aplicación consultar directamente servicios como la NASA o el Servicio Meteorológico Nacional para obtener datos climáticos en tiempo real, eliminando la necesidad de que el usuario los ingrese manualmente y transformando el MVP en una herramienta completamente automatizada.
 
-# Fuentes y lecturas base para creacion delos datos sinteticos
+# Fuentes de lecturase investigacion, base para creacion de los datos sinteticos
 -Estimaciones Agropecuarias — Ministerio / series por provincia y cultivo. 
 datosestimaciones.magyp.gob.ar
+
 -CHIRPS (precipitación satelital + estaciones). 
 chc.ucsb.edu
+
 -WorldClim (climatología global). 
 worldclim.org
+
 -SMN – estaciones meteorológicas argentinas. 
 Datos Argentina
+
 -Uso de NDVI/MODIS para rendimiento agrícola (literatura y Sen2Agri / ESA). 
 ScienceDirect
 due.esrin.esa.int
