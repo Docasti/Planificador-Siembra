@@ -1,4 +1,4 @@
-# 🌾 Planificador de Siembra Inteligente
+# 🌾 Proyecto: Planificador de Siembra Inteligente
 
 Proyecto de Ciencia de Datos
 
@@ -16,9 +16,7 @@ Caso de Uso
 El proyecto se centra en un pequeño productor de la zona rural de Santiago del Estero, Argentina. La herramienta lo asiste para planificar su siembra anual, tomando en cuenta la necesidad de autoconsumo para su familia y ganado, y la rentabilidad. Un caso de uso clave es la capacidad del modelo para priorizar cultivos más resistentes en escenarios de sequía, mitigando el riesgo de pérdida de cosecha.
 
 Características Clave
-
 Simulación de Datos (ETL): El app_gradio.ipynb contiene la simulación de datos. 
-
 Predicción de Rendimientos: Utiliza un modelo de Random Forest Regressor para pronosticar la producción de Maíz, Choclo y Zapallo.
 
 Modelo de Optimización de Siembra: use de SciPy ( scipy.optimize.linprog para optimización lineal, recomienda la distribución ideal de hectáreas para maximizar la ganancia total.
