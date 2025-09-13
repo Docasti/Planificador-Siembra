@@ -6,6 +6,7 @@ Proyecto de Ciencia de Datos
 
 ¡Aplicación en vivo! Puedes acceder y probar mi MVP aquí: 
 URL pública de la app: 
+
 https://huggingface.co/spaces/DoraCastillo/planificador-siembra
 
 Descripción del Proyecto
