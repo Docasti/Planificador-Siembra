@@ -5,7 +5,8 @@ Proyecto de Ciencia de Datos
 **Desarrollado por:** Dora Cristina Castillo. Data Scientist.
 
 ¡Aplicación en vivo! Puedes acceder y probar mi MVP aquí: 
-URL pública de la app: https://huggingface.co/spaces/DoraCastillo/planificador-siembra
+URL pública de la app: 
+https://huggingface.co/spaces/DoraCastillo/planificador-siembra
 
 Descripción del Proyecto
 Este proyecto es una herramienta de ciencia de datos diseñada para ayudar a pequeños productores agropecuarios a tomar decisiones de siembra más informadas. El sistema utiliza modelos de Machine Learning para predecir rendimientos de cultivos y un modelo de optimización matemática para recomendar la asignación óptima de hectáreas.
